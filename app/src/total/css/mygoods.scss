@@ -1,0 +1,29 @@
+.mygoods_item {
+    margin-top: 2rem!important;
+}
+.card_bot{
+    // background-color: red;
+    height: 5rem;
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    width: 100vw;
+    margin-top: 1rem;
+}
+.card_bot{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    div{
+        border: 1px solid #ccc;
+        padding: 0.5rem 1rem;
+    }
+}
+.rv-ellipsis{
+    margin-top: 1.5rem;
+}
+.rv-image{
+    img{
+        width: 8.8rem!important;
+        height: 8.8rem!important;
+    }
+}

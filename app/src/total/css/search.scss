@@ -1,0 +1,26 @@
+.searchs{
+    height: 100vh;
+    // background-color: red;
+}
+.navbar{
+    margin-bottom: 0!important;
+}
+.search_main{
+    overflow-y: scroll;
+    height: calc(100vh - 12rem);
+}
+.search_list{
+    display: inline;
+}
+.search_item{
+    width: 17rem;
+    height: 17rem;
+    background-color: #ccc;
+    margin-top: 1rem;
+    display: inline-block;
+    margin-left: 1rem;
+    img{
+        width: 100%;
+        height: 70%;
+    }
+}
